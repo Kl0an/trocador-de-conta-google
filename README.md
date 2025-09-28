@@ -1,4 +1,4 @@
-# Google Account Switcher - v1.2-gamma (Híbrido)
+# Google Account Switcher - v1.2-beta (Híbrido)
 
 Um bookmarklet inteligente e universal para trocar ou adicionar contas Google. Ele automaticamente escolhe a melhor interface para você.
 
